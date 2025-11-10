@@ -149,6 +149,8 @@ This is a community project, and **we welcome contributions from everyone**! If 
 | ColPali              | Efficient Document Retrieval with Vision Language Models                      | [Website](https://arxiv.org/abs/2407.01449)                    |
 | RAG_Techniques       | Showcases various advanced techniques for RAG systems                         | [Website](https://github.com/NirDiamant/RAG_Techniques)        |
 | GenAI_Agents         | Tutorials and implementations for various AI Agent techniques                 | [Website](https://github.com/NirDiamant/GenAI_Agents)          |
+| RAG From Scratch     | Official LangChain guide for building a RAG pipeline from scratch             | [Website](https://github.com/langchain-ai/rag-from-scratch)    |
+
 
 ## Model LeaderBoards
 
